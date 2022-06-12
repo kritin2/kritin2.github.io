@@ -167,9 +167,9 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      company: "Samsung Electronics",
+      companylogo: require("./assets/images/samsunglogo.png"),
+      date: "September 2021 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -177,9 +177,9 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      role: "Backend Engineer",
+      company: "Syfe",
+      companylogo: require("./assets/images/manOnTable.svg"),
       date: "May 2017 – May 2018",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
